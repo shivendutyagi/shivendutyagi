@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivendutyagi
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...learnt python. Started learning ml and ai.
+- 🌱 I have a good understanding of python,java and go language along with fyne framework. 
 - 💞️ I’m looking to collaborate on ...developing projects
 - 📫 How to reach me ... shivendu.2420@gmail.com
 
